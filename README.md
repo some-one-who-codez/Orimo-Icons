@@ -9,7 +9,7 @@
 </div>
  
 ## Disclaimer
-This is not my source code. This code is originally from [here](https://github.com/elementary/os). I simply want to experiment and see what I can do. You are free to join. PS I have no experience so help is very welcome. I ultimately want the os to look like [this](https://www.youtube.com/watch?v=9zqN-f3wm-Y)
+This is not my source code. This code is originally from [here](https://github.com/elementary/icons). I simply want to experiment and see what I can do. You are free to join. PS I have no experience so help is very welcome. I ultimately want the os to look like [this](https://www.youtube.com/watch?v=9zqN-f3wm-Y)
 
 # elementary Icons
 
