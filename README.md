@@ -1,17 +1,15 @@
-<div>
-    <img title="Mail icon" src="http://elementary.io/images/docs/human-interface-guidelines/icons/64/internet-mail.svg" />
-    <img title="RSS reader icon" src="http://elementary.io/images/docs/human-interface-guidelines/icons/64/internet-news-reader.svg" />
-    <img title="Web browser icon" src="http://elementary.io/images/docs/human-interface-guidelines/icons/64/internet-web-browser.svg" />
-    <img title="Photos icon" src="http://elementary.io/images/docs/human-interface-guidelines/icons/64/multimedia-photo-manager.svg" />
-    <img title="Network error icon" src="http://elementary.io/images/docs/human-interface-guidelines/icons/64/network-error.svg" />
-    <img title="Calendar icon" src="http://elementary.io/images/docs/human-interface-guidelines/icons/64/office-calendar.svg" />
-    <img title="Warning icon" src="http://elementary.io/images/docs/human-interface-guidelines/icons/64/dialog-warning.svg" />
-    <img title="Chat icon" src="http://elementary.io/images/docs/human-interface-guidelines/icons/64/internet-chat.svg" />
-    <img title="Photos icon" src="http://elementary.io/images/docs/human-interface-guidelines/icons/64/multimedia-photo-manager.svg" />
-    <img title="Videos icon" src="http://elementary.io/images/docs/human-interface-guidelines/icons/64/multimedia-video-player.svg" />
-    <img title="Online Accounts icon" src="http://elementary.io/images/docs/human-interface-guidelines/icons/64/preferences-desktop-online-accounts.svg" />
-    <img title="Terminal icon" src="http://elementary.io/images/docs/human-interface-guidelines/icons/64/utilities-terminal.svg" />
- </div>
+<div align="center">
+  <center align="center">
+      <img src="https://github.com/some-one-who-codez/Orimo-OS/blob/master/Orimo%20Os%20Logo.png" alt="Orimo OS" align="center" height=200 width=200 >
+   </center>
+  <br>
+  <h1 align="center"><center>Orimo OS</center></h1>
+  <br>
+  <br>
+</div>
+ 
+## Disclaimer
+This is not my source code. This code is originally from [here](https://github.com/elementary/os). I simply want to experiment and see what I can do. You are free to join. PS I have no experience so help is very welcome. I ultimately want the os to look like [this](https://www.youtube.com/watch?v=9zqN-f3wm-Y)
 
 # elementary Icons
 
